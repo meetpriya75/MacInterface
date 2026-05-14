@@ -90,8 +90,8 @@ This project was built to:
 
 **Shray Priyadarshi**
 
-* 📧 [shraypriyadarshi@gmail.com](mailto:shraypriyadarshi@gmail.com)
-* 🌍 Kolkata, West Bengal, India
+* 📧 [priyameet029@gmail.com](mailto:shraypriyadarshi@gmail.com)
+* 🌍 Begusarai, Bihar, India
 * 🔗 GitHub: https://github.com/Shraysinha
 
 ---
