@@ -1,0 +1,18 @@
+.terminal-app{
+  height: 100%;
+  overflow: auto;
+  padding-bottom: 3rem;
+  background-color: #222222;
+
+  div[name="react-console-emulator"]{
+    height: 100%;
+    background-color: transparent !important;
+  }
+}
+
+@media (max-width: 768px){
+  .terminal-app{
+    padding-bottom: 1.5rem;
+    font-size: 0.85rem;
+  }
+}

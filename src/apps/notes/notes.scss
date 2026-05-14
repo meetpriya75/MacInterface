@@ -1,0 +1,19 @@
+.notes-app{
+  padding: 1rem;
+  height: 100%;
+  overflow: auto;
+  padding-bottom: 5rem;
+  white-space: pre-wrap;
+
+  pre{
+    background-color: transparent !important;
+  }
+}
+
+@media (max-width: 768px){
+  .notes-app{
+    padding: 0.75rem;
+    padding-bottom: 2rem;
+    font-size: 0.86rem;
+  }
+}

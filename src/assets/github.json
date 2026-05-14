@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1561489413-985b06da5bee",
+    "title": "WeatherVue",
+    "description": "A modern weather forecasting web app that provides real-time weather data, forecasts, and dynamic UI based on location.",
+    "tags": ["React", "API", "CSS"],
+    "repoLink": "https://github.com/yourusername/weathervue",
+    "demoLink": null
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "title": "AI Chat Assistant",
+    "description": "An AI-powered chatbot that answers user queries in real-time using NLP and conversational UI.",
+    "tags": ["JavaScript", "AI", "Node.js"],
+    "repoLink": "https://github.com/yourusername/ai-chat-assistant",
+    "demoLink": "https://ai-chat-demo.vercel.app"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+    "title": "Task Manager App",
+    "description": "A full-stack task management system with authentication, CRUD operations, and productivity tracking.",
+    "tags": ["MongoDB", "Express", "React", "Node"],
+    "repoLink": "https://github.com/yourusername/task-manager",
+    "demoLink": "https://task-manager-demo.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website showcasing projects, skills, and contact information with a modern UI.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/yourusername/portfolio",
+    "demoLink": "https://portfolio-demo.vercel.app"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "title": "Cyber Security Toolkit",
+    "description": "A collection of tools for basic vulnerability scanning, password strength checking, and security analysis.",
+    "tags": ["Python", "Cybersecurity", "CLI"],
+    "repoLink": "https://github.com/yourusername/cyber-toolkit",
+    "demoLink": "https://cyber-toolkit-demo.vercel.app"
+  }
+]
